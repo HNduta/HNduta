@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Computer+Science+Student+and+Data+Science+Enthusiast&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
 
-# Hi there, I'm [Hope Nduta Wanjohi] 👋
+# Hi there, I'm Hope Nduta Wanjohi 👋
  
 I'm a final-year Computer Science student and Tech and Sustainability Lead at Cleanvestia passionate about building intelligent and impactful software solutions. My interests span across Data Science, Machine Learning, Artificial Intelligence and Full-Stack Development. I enjoy transforming data into insights and creating applications that solve real-world problems.
  
@@ -59,13 +59,16 @@ I'm a final-year Computer Science student and Tech and Sustainability Lead at Cl
  
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=H-Nduta&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-Nduta&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
+## GitHub Stats
 
-  <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=H-Nduta&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HNduta&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HNduta&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HNduta&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 </p>
  
