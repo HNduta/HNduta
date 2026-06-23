@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Your+Subtitle+or+Professional+Tagline+Here&descAlignY=58&descColor=67e8f9&animation=fadeIn%22 />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Your+Subtitle+or+Professional+Tagline+Here&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
- 
+
 # Hi there, I'm [Hope Nduta Wanjohi] 👋
  
-I'm a final-year Computer Science student passionate about building intelligent and impactful software solutions. My interests span across Data Science, Machine Learning, Artificial Intelligence and Full-Stack Development. I enjoy transforming data into insights and creating applications that solve real-world problems.
+I'm a final-year Computer Science student and Tech and Sustainability Lead at Cleanvestia passionate about building intelligent and impactful software solutions. My interests span across Data Science, Machine Learning, Artificial Intelligence and Full-Stack Development. I enjoy transforming data into insights and creating applications that solve real-world problems.
  
 - 🔭 **Current Focus:** Developing an AI-Powered Child Data Analytics Platform for cognitive support among children with Autism Spectrum Disorder. 
 - 🌱 **Learning & Exploration:** Data Analytics and Visualization, Machine Learning, Cloud Computing, and Large Language Models (LLMs)
@@ -56,16 +56,16 @@ I'm a final-year Computer Science student passionate about building intelligent 
 - 📊 Certificate in Data Analysis and Visualization
 - 🎓 FLOW Summer Program – Data and Information Processing
 
+ 
 ## GitHub Stats
-*Note: These data visualization modules automatically update in real time based on your active version control contributions.*
- 
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HNduta&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff%22 alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HNduta&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff%22 alt="Top Languages" />
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=H-Nduta&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-Nduta&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
+
   <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HNduta&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true%22 alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=H-Nduta&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 </p>
  
