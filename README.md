@@ -4,7 +4,7 @@
 
 # Hi there, I'm Hope Nduta Wanjohi 👋
  
-I'm a final-year Computer Science student and Tech and Sustainability Lead at Cleanvestia passionate about building intelligent and impactful software solutions. My interests span across Data Science, Machine Learning, Artificial Intelligence and Full-Stack Development. I enjoy transforming data into insights and creating applications that solve real-world problems.
+I'm a final-year Computer Science student and Tech & Sustainability Lead at Cleanvestia passionate about building intelligent and impactful software solutions. My interests span across Data Science, Machine Learning, Artificial Intelligence and Full-Stack Development. I enjoy transforming data into insights and creating applications that solve real-world problems.
  
 - 🔭 **Current Focus:** Developing an AI-Powered Child Data Analytics Platform for cognitive support among children with Autism Spectrum Disorder. 
 - 🌱 **Learning & Exploration:** Data Analytics and Visualization, Machine Learning, Cloud Computing, and Large Language Models (LLMs)
@@ -76,7 +76,7 @@ I'm a final-year Computer Science student and Tech and Sustainability Lead at Cl
  
 ## Connect With Me
  
-- 💼 **Professional Network:** [Link to your LinkedIn, Portfolio, or CV]
+- 💼 **Professional Network:** https://www.linkedin.com/in/hope-wanjohi-a39a2a271
 - 📧 **Direct Contact:** hnwanjohi@icloud.com
  
 <p align="center">
